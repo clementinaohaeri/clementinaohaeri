@@ -1,5 +1,6 @@
-- 👋 #Hi, I’m Clementina Ohaeri
-- 👀 #I’m interested in data analytics
+- ## Hi there,
+- ## I’m Clementina Ohaeri 
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data analytics, SQL, Tableau, Power Bi
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/clementinaohaeri)
